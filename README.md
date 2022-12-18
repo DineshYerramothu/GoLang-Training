@@ -1,2 +1,1 @@
-# GoLang-Training
-Go language practice repo
+first hello program
