@@ -1,4 +1,4 @@
-package ArithmticOp
+package ArithmeticOp
 
 var x float64
 var y float64
